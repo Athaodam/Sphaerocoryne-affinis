@@ -24,12 +24,21 @@ The tree has long flat singular silvery-green leaves with quite prominent mid-ve
 ##Medicine 
 
 Sphaerocoryne affinis also has several healing and therapeutic effects. Since the 1990s, the plant has been extensively studied for its anti-cancer abilities (Le-Trung et al. 2023). Several parts of the plant, such as its leaves, roots, stems, bark, and flowers have demonstrated cytotoxic effects against various types of cells which contribute towards the lung, breast, cervical, colon, and skin cancers. This means that chemicals within these different parts of the plant actively kill different types of cancer cells, when they are exposed to them. Specifically, these cancer cell lines include but are not limited to: A549 (lung carcinoma), MCF-7 (breast carcinoma), HT-29 (colon adenocarcinoma), SK-MEL-5, and Malme-3 M (melanoma). Additionally, the water extracted from the plant’s fruit is known to have high antioxidant capacity because of its high levels of ascorbic acid and phenolic compounds. For this reason, researchers have also argued that it has high potential for the treatment of Parkinson’s disease. This is especially crucial because most treatments for the disease only focus on managing symptoms and improving quality of life; researchers are optimistic that further research into Rumduol could lead to new medicines which could cure it altogether, making it important to matters of global health for aging populations. Within Traditional Khmer Medicine (TKM) the plant is used to treat a variety of health issues. The bark is used to treat animal bites, venomous snake bites, and is considered a fever reducer. The flowers can be used to manage blood pressure, ease bouts of dizziness, and as a preventative measure against heart attacks. 
-The leaves and stems are steeped within a hot water decoction as a postpartum medicine. Like most TKM medicines for postpartum, it is potentially believed to be used in order to heat up and restore the humors after giving birth, promote recovery, or increase breastmilk production. 
+The leaves and stems are steeped within a hot water decoction as a postpartum medicine. Like most TKM medicines for postpartum, it is believed to be used in order to heat up and restore the humors after giving birth, promote recovery, or increase breastmilk production. 
+
 
 
 ##Food
 
-Rumduol is primarily sought for its fruits. The taste of Rumduol fruits is variable depending on the stage of growth, with younger fruits being more sour and the older being characteristically sweeter.  Within Cambodia, the gathering and selling of these fruits in local markets is a common means of income, during the prime growing months of December to March. In neighbouring Vietnam, Rumduol fruits are often made into either juices or non distilled alcoholic beverages. In addition to being eaten by humans, the fruits are also documented as a stable food source for local wildlife, such as birds. Within the global jasmine rice market, a Cambodian-grown variety called “Phka Rumduol” (Rumduol Flower) has won numerous awards and is widely consumed across the country. This variety of rice is grown primarily in the provinces surrounding the Tonle Sap Lake including Battambang, Banteay Meanchey, Siem Reap, Kampong Thom, Kampong Chhnang and Pursat. It has been growing at the AgriTech Centre in Oddar Meanchey since June 2023.
+Rumduol is primarily sought for its fruits. The taste of Rumduol fruits is variable depending on the stage of growth, with younger fruits being more sour and the older being characteristically sweeter.  Within Cambodia, the gathering and selling of these fruits in local markets is a common means of income, during the prime growing months of December to March. In neighbouring Vietnam, Rumduol fruits are often made into either juices or non distilled alcoholic beverages. In addition to being eaten by humans, the fruits are also documented as a stable food source for local wildlife, such as birds.
+
+<param ve-video id="kqs-OOZOTqY" 
+       title="Picking Rumduol fruits in Cambodia"
+       start="04:455">
+
+                    
+
+Within the global jasmine rice market, a Cambodian-grown variety called “Phka Rumduol” (Rumduol Flower) has won numerous awards and is widely consumed across the country. This variety of rice is grown primarily in the provinces surrounding the Tonle Sap Lake including Battambang, Banteay Meanchey, Siem Reap, Kampong Thom, Kampong Chhnang and Pursat. It has been growing at the AgriTech Centre in Oddar Meanchey since June 2023.
 
 Possible Meanings and Symbolisms
 Aside from being the national flower of Cambodia, Rumduol is also used in several logos for public and private entities in various sectors across the country. Not only is it commonly used in ecotourism and hospitality overall, it is also widely considered a governmental symbol of environmental preservation and protection. Within several promotional materials within the Cambodian tourist sector, various agencies have linked qualities about the plant to generalisations about the collective character of Cambodians as a whole. Some descriptors include “cheerful”, “energetic”, “positive”, “friendly”, “full of life”, and “elegant”. Despite use in several religiously-oriented Khmer cultural heritage and practices, Rumduol does not have any notable significance nor connotations in either Buddhism or Hinduism. Rumduol has also been used as a slang term to refer to a beautiful Khmer woman – with many songs, poems, and artistic creations across history demonstrating this. As a result, it is also a popular women’s name in Cambodia. 
@@ -48,14 +57,14 @@ Material Uses: The wood of Rumduol is used for building furniture and homes, boa
 Poetry: In the epic poem Reamker, the Khmer literary adaptation of the Indian epic Ramayana, the story of an exiled prince’s return from a forest to claim his throne unfolds. Among his many adventures and encounters, there are references to incredibly fragrant flowers with notable symmetry and fruits, which some argue could possibly be Rumduol, but this is still an ongoing debate. 
 
 
-_Death to fruit and flower:
-Leaf and blossom dropped, shriveled
+_Death to fruit and flower:_
+_Leaf and blossom dropped, shriveled_
 
-Flowers sprang up far and wide
+_Flowers sprang up far and wide
 Suddenly, richly displayed,
-As if by an arranger’s art
+As if by an arranger’s art_
 
-The flowers fluttered out their fund
+_The flowers fluttered out their fund
 Of perfume, which unwound
 Sweetness pervading all the scene_
 
