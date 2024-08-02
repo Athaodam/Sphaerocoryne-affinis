@@ -80,7 +80,11 @@ Despite my attempts, she remains indifferent
 Perhaps Rumduol has already found her partner
 Tell me, do not leave me guessing
 
-Sinn Sisamouth also song of a similar vein, once again linking to the Rumduol flower called “Bopha Kors Rumduol” (បុប្ផាកោះរំដួល). Another famous romance ballad of similar nature is “Romduol Kratie” (រំដួលក្រចេះ) which has been sung by many Cambodian singers over the years such as Im Song Seoum (អឹុមសុងសឺម) and Duong Viraksith (ដួង វីរៈសិទ្ធ).
+Sinn Sisamouth also song of a similar vein, once again linking to the Rumduol flower called “Bopha Kors Rumduol” (បុប្ផាកោះរំដួល). 
+<param ve-video id="QIHMyosmjSE" title=" Bopha Kors Rumduol បុប្ផាកោះរំដួល by Sinn Sisamouth">
+
+Another famous romance ballad of similar nature is “Rumduol Kratie” (រំដួលក្រចេះ) which has been sung by many Cambodian singers over the years such as Im Song Seoum (អឹុមសុងសឺម) and Duong Viraksith (ដួង វីរៈសិទ្ធ).
+<param ve-video id="Jpcm8s_ZC1k" title="Rumduol Kratie រំដួលក្រចេះ by Im Song Seoum">
 
 
 
