@@ -9,6 +9,7 @@
        layout="vertical">
 
 
+## A Beloved Flower 
 
 While walking through almost any temple, public park, or decorated hotel garden across Cambodia, a branch of flowering golden Sphaerocoryne affinis or the Rumduol (រំដួល) is bound to capture your attention. Its uniquely enchanting scent of musky and sweet is often described as a defining characteristic of the experience of a late afternoon or early evening in Cambodia, as these are its peak blooming moments of the day. This fragrance easily clings and disperses on the winds, making it very likely to be able to smell Rumduol before even seeing one of its petite blooms. This fragrance, coupled with the triangular symmetry of its flower petals, makes it a memorable highlight for both locals and visitors alike. Its status as the national flower of Cambodia is unsurprising – it’s hard to think of examples of a more beloved flower. While only designated as a national symbol in 2005 by King Norodom Sihamoni via royal decree, the cultural significance of the flower is longstanding – one only needs to visit remnants of Angkor Wat. Amongst the temple’s numerous stone carvings, countless artistic depictions of the flower, in varying stages of growth, can be made out. From its presence within minor details like decorations on the skirts of Apsara or forming ornate borders along walls, to entirely dedicated panels, Rumduol is undoubtedly an important Cambodian plant.
 
