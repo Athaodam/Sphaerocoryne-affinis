@@ -1,9 +1,9 @@
-https://upload.wikimedia.org/wikipedia/commons/1/19/Rumdoul.jpg
+
 
 <a href="https://juncture-digital.org/athaodam/sphaerocoryne-affinis"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Coconut ដូង (Cocos nucifera)"
+       title="Rumduol រំដួល (Sphaerocoryne affinis)"
        author="Ashley Thuthao Keng Dam, Ph.D."
        banner="https://upload.wikimedia.org/wikipedia/commons/1/19/Rumdoul.jpg" 
        layout="vertical">
